@@ -1,0 +1,39 @@
+<layout>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#205666"
+    tools:context=".presentation.activity.SplashActivity">
+
+    <ImageView
+        android:id="@+id/iv_question"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_question"
+        app:tint="@color/white" />
+
+    <ImageView
+        android:id="@+id/iv_child"
+        android:layout_width="wrap_content"
+        android:layout_height="220dp"
+        android:src="@drawable/img_child"
+        android:layout_marginBottom="100dp"
+        android:layout_marginStart="12dp"/>
+
+<!--    <TextView-->
+<!--        android:id="@+id/tv_title"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="@string/sonni_top"-->
+<!--        android:textStyle="bold"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:textSize="40dp" />-->
+
+
+
+</LinearLayout>
+</layout>

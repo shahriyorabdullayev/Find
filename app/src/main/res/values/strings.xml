@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Find</string>
+    <string name="question_mark">\?</string>
+    <string name="welcome_title">Sonlar guruhi</string>
+    <string name="game_rules">
+<!--        Правила игры: перед вами будет три фигуры, две снизу и одна сверху, в двух из них будут-->
+        <!--        числа. Необходимо, чтобы сумма чисел из двух нижних фигур была равна числу в верхней фигуре,-->
+        <!--        для этого нужно вставить недостающее число.\n\nПример: в верхнем круге число 7, в одном-->
+        <!--        из нижних знак вопроса, а в другом число 4. Значит на месте вопросительного знака должно-->
+        <!--        быть число 3, потому что 3 + 4 = 7-->
+        O`yin qoidalari : Sizga yuqorida aylanada son beriladi va pastda ikkita son, ulardan biri
+            yashirin, siz shunday son tanlashingiz kerakki pastdagi ikkala son yig`indisi yuqoridagi
+            songa teng!\n\nMasalan : Yuqorida 7 pastda 3 va ?. Bu yerda javob 4, chunki 3 + 4 = 7.
+
+
+    </string>
+    <string name="button_understand">Tushunarli</string>
+    <string name="welcome_logo">Welcome logo</string>
+    <string name="choose_level_title">Darajani tanlang</string>
+    <string name="easy_level">Oson</string>
+    <string name="normal_level">O`rtacha</string>
+    <string name="hard_level">Qiyin</string>
+    <string name="test_level">Sinov</string>
+    <string name="score_answers">Sizning hisob : %s</string>
+    <string name="score_percentage">To`g`ri javoblar foizi: %s</string>
+    <string name="retry">Qayta urinib ko`ring</string>
+    <string name="right_answers">To`g`ri javoblar %s dan %s zarur</string>
+    <string name="required_percentage">To`g`ri javoblarning talab qilinadigan foizi: %s</string>
+    <string name="required_score">Kerakli to`g`ri javoblar soni: %s</string>
+    <string name="progress_answers">To`g`ri javoblar %s (minimum %s)</string>
+    <string name="game_over">Game Over</string>
+    <string name="you_win">You win</string>
+    <string name="sonni_top">Sonni toping</string>
+</resources>
